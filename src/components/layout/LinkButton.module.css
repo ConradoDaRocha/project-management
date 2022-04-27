@@ -4,6 +4,8 @@
     padding: 0.7em 1.1em;
     text-decoration: none;
     transition: 0.5s;
+    margin-top: 25px;
+    margin-bottom: none;
     
 }
 .btn:hover {
